@@ -1,0 +1,2 @@
+local /textures/
+local = true
