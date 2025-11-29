@@ -1,2 +1,7 @@
-if true = true
-if false = false 
+ahaxe script index
+
+if Compiled = true }
+
+Noop all
+
+{
